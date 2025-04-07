@@ -25,3 +25,6 @@ The project aims to disrupt traditional financial systems by using blockchain to
 - HTML, CSS, JavaScript (Frontend)
 - MetaMask + Web3.js (Wallet interaction)
 - Ethereum (Goerli/Sepolia testnet)
+
+
+![image](https://github.com/user-attachments/assets/86832759-cf55-44fd-875d-daa9cc3270e0)
